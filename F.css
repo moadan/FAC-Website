@@ -179,10 +179,8 @@ footer {
     }
     
     .pimg {
-        background-color: rgb(41, 67, 89);
         width: 100%;
         padding: 10px;
-        color: rgb(204, 255, 255);
         display: flex;
     }
 
@@ -274,6 +272,10 @@ footer {
         width: 100%;
         padding: 10px;
         margin-bottom: 30px;
+    }
+
+    br {
+        margin: 10px 0;
     }
 
     #pagetitle {
