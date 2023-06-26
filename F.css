@@ -46,6 +46,11 @@ img {
     list-style: none;
     font-size: 18px;
     font-family: poppins, Arial, Helvetica, sans-serif;
+    border-radius: 40%;
+}
+
+.tag:hover {
+    background-color: rgb(157, 240, 227);
 }
 
 /* Main-Body */
@@ -95,6 +100,10 @@ img {
     font-family: poppins;
     font-size: 16px;
     padding: 10px;
+}
+
+p {
+    font-size: 16px;
 }
 
 /* Grid */
@@ -205,7 +214,7 @@ footer {
         grid-template-columns: (10, 1fr);
         width: 85%;
         margin: 0 auto;
-        height: 1700px;
+        height: 1000px;
         background-color: rgb(255, 232, 208);
     }
     
@@ -276,6 +285,7 @@ footer {
         background-color: rgb(180, 152, 208);
         border: 3px solid   rgb(210, 165, 250);
         list-style: none;
+        border-radius: 0px;
     }
 
     #mainsection {
