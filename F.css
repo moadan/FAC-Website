@@ -131,6 +131,7 @@ h2 {
     margin: 0 auto;
     height: 1000px;
     background-color: rgb(239, 230, 253);
+    border-radius: 5%;
 }
 
 .grid-item-1 {
