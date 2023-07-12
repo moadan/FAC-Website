@@ -27,7 +27,7 @@ Colors for styling, I chose a contrasting pink and blue theme. I used border-rad
 
 Imaging sizing and loading was one the main bug's i faced, as moblie sceens and web views load as different speeds, this caused responsive lag onload.
 
-I looked into this topic of resizing images to the dimensions they will be displayed on the website or mobile app. This avoids unnecessary resizing by the browser, leading to faster loading as a solution, however i didn't get around to implementing this the project.
+I looked into this topic of resizing images to the dimensions they will be displayed on the website or mobile app. This avoids unnecessary resizing by the browser, leading to faster loading as a solution, however i didn't get around to implementing this to the project.
 
 
 # Project Inspiration
