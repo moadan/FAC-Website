@@ -2,7 +2,7 @@
 
 Firstly, I would like to thank the team at FAC! for their support and welcoming hospitality during the application process.
 
-This document will try to highlight and explain code and provide some insight into my learning during the application. I'm interested in coding projects and collaborating to create future applications.
+This document will try to highlight and explain the code and provide some insight into my learning during the application. I'm interested in coding projects and collaborating to create future applications.
 
 # Project Building
 
@@ -10,7 +10,7 @@ This document will try to highlight and explain code and provide some insight in
     The index.html structure is a one-page document that is split into HTML5 elements. It includes a (header) for the logo and navbar, a (section) for the main content, an (article) for a brief overview of myself, a (div) for the grid system with photos, and lastly, a (footer).
 
 - CSS:
-    The display properties use flexbox for the navbar and main content images.
+    The display properties use flexbox for the navbar and main content image.
 
 The (p) elements and (img) are also inline using flexbox when in full-screen width and change to block elements at small screen sizes.
 
@@ -22,7 +22,7 @@ Media queries are used at different breakpoints. Most of the styles change to bl
 - 600px for mobiles
 
 Colors for styling, I chose a contrasting pink and blue theme. I used border-radius a lot for softer edges on most elements.
-Project: The Why?
+
 
 # Project Inspiration
 
