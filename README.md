@@ -26,7 +26,7 @@ Colors for styling, I chose a contrasting pink and blue theme. I used border-rad
 
 # Project Inspiration
 
-The main photo is what I built the whole concept around - empowerment and tech. It shows a woman kite-surfing on the beach, enjoying herself. I believe people can think outside of the box and try to innovate ideas with action and slow progression.
+The main photo is what I built the whole concept around - empowerment and tech. It shows a woman kite-surfing near the beach, enjoying herself and the locals wathcing her and are inspired. I believe people can think outside of the box and try to innovate ideas with action and slow progression.
 
 # Project in hindsight 
 
