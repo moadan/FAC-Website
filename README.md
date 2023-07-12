@@ -7,12 +7,12 @@ This document will try to highlight and explain code and provide some insight in
 # Project Building
 
 - HTML:
-    The index.html structure is a one-page document that is split into HTML5 elements. It includes a <header> for the logo and navbar, a <section> for the main content, an <article> for a brief overview of myself, a <div> for the grid system with photos, and lastly, a <footer>.
+    The index.html structure is a one-page document that is split into HTML5 elements. It includes a (header) for the logo and navbar, a (section) for the main content, an (article) for a brief overview of myself, a (div) for the grid system with photos, and lastly, a (footer).
 
 - CSS:
     The display properties use flexbox for the navbar and main content images.
 
-The <p> elements and <img> are also inline using flexbox when in full-screen width and change to block elements at small screen sizes.
+The (p) elements and (img) are also inline using flexbox when in full-screen width and change to block elements at small screen sizes.
 
 Photographs are displayed in a grid using the display: grid property.
 
