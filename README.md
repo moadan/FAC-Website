@@ -27,3 +27,7 @@ Colors for styling, I chose a contrasting pink and blue theme. I used border-rad
 # Project Inspiration
 
 The main photo is what I built the whole concept around - empowerment and tech. It shows a woman kite-surfing on the beach, enjoying herself. I believe people can think outside of the box and try to innovate ideas with action and slow progression.
+
+# Project in hindsight 
+
+The opportunity in the online discussion's on the discord app, was not used to its best benefit by my self, however the meet-ups were very helpful for me, as a beginner into computer coding, seeing others applicants progess and seeking advice was very good.
